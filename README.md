@@ -2,10 +2,10 @@ This repository contains project work for Udacity's Artificial Intelligence Nano
 
 Projects:
 
-Project 1: Solve a Sudoku with AI
-Project 2: Build a Game-Playing Agent
-Project 3: Implement a Planning Search
-Project 4: Build a Sign Language Recognizer
+- Project 1: Solve a Sudoku with AI
+- Project 2: Build a Game-Playing Agent
+- Project 3: Implement a Planning Search
+- Project 4: Build a Sign Language Recognizer
 
 Courses:
 1. Foundations of AI
