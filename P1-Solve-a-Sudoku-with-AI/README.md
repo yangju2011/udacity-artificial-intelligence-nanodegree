@@ -1,4 +1,4 @@
-# implement "naked twins" strategy and solve a diagonal sudoku based on AIND's code from https://github.com/udacity/aind-sudoku
+implement "naked twins" strategy and solve a diagonal sudoku based on AIND's code from https://github.com/udacity/aind-sudoku
 
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
