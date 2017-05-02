@@ -41,7 +41,6 @@ def custom_score(game, player):
     opp_moves = len(game.get_legal_moves(game.get_opponent(player)))
     
     return float(own_moves - 2 * opp_moves)
-    raise NotImplementedError
 
 def custom_score_2(game, player):
     """Outputs a score equal to the ratio of the number of moves available to the
@@ -82,9 +81,6 @@ def custom_score_2(game, player):
     
     return 1.*own_moves / opp_moves
 
-    raise NotImplementedError
-
-
 def custom_score_3(game, player):
     """Outputs a score equal to difference of the square of the distance from the center of the
     board to the player and the opponent. 
@@ -122,8 +118,6 @@ def custom_score_3(game, player):
     
     return float(y2 - y1)**2 + float(x2 - x1)**2
                   
-    raise NotImplementedError
-
 class IsolationPlayer:
     """Base class for minimax and alphabeta agents -- this class is never
     constructed or tested directly.
@@ -263,8 +257,6 @@ class MinimaxPlayer(IsolationPlayer):
                 best_score = score
                 best_move = move
         return best_move  
-        raise NotImplementedError
-
         
     def min_val(self,game,d): # input is a state 
         if self.time_left() < self.TIMER_THRESHOLD:
@@ -360,8 +352,6 @@ class AlphaBetaPlayer(IsolationPlayer):
         # Return the best move from the last completed search iteration
         # get move with the highest score 
         return all_moves[-1]
-    
-        raise NotImplementedError
 
     def alphabeta(self, game, depth, alpha=float("-inf"), beta=float("inf")):
         """Implement depth-limited minimax search with alpha-beta pruning as
@@ -430,9 +420,7 @@ class AlphaBetaPlayer(IsolationPlayer):
                 return best_move
             alpha = max(alpha,best_score)
         return best_move 
-    
-        raise NotImplementedError
-
+  
     def ab_max_val(self,game,d,a,b): # input is a state, depth and updated alpha and beta
         if self.time_left() < self.TIMER_THRESHOLD:
             raise SearchTimeout()
