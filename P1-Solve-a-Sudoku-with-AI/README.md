@@ -1,0 +1,1 @@
+- implement "naked twins" strategy and solve a diagonal sudoku based on AIND's code from https://github.com/udacity/aind-sudoku
