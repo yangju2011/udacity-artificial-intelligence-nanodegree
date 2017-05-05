@@ -4,8 +4,8 @@ Projects:
 
 - Project 1: Solve a Sudoku with AI
 - Project 2: Build a Game-Playing Agent
-- Project 3: Implement a Planning Search
-- Project 4: Build a Sign Language Recognizer
+- Project 3: Pacman
+- Project 4: Simulated_Annealing
 
 Courses:
 1. Foundations of AI
