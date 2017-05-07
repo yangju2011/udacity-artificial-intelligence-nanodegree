@@ -8,7 +8,7 @@ Projects:
 - Project 4: Simulated Annealing
 
 Courses:
-- 1. Foundations of AI
+1. Foundations of AI
   - Introduction to AI
   - Introduction to Game Playing
   - Advanced Game Playing
@@ -22,4 +22,4 @@ Courses:
   - Inference in Bayes Nets
   - Hidden Markov Models
 
-- 2. Deep Learning and Applications
+2. Deep Learning and Applications
