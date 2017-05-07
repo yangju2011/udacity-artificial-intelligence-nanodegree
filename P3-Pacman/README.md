@@ -1,4 +1,4 @@
-Implement different search algorithms to teach Pacman to navigate his world (resource: http://inst.eecs.berkeley.edu/~cs188/pacman/search.html)
+Implement different search algorithms to teach Pacman to navigate. Resource: http://inst.eecs.berkeley.edu/~cs188/pacman/search.html
 - Find one target
   - Depth First Search
   - Breadth First Search
