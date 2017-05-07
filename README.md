@@ -4,7 +4,7 @@ Projects:
 
 - Project 1: Solve a Sudoku with AI
 - Project 2: Build a Game-Playing Agent
-- Project 3: Pacman
+- Project 3: Teaching PacMan to Search
 - Project 4: Simulated_Annealing
 
 Courses:
