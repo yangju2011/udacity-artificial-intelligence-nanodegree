@@ -1,0 +1,11 @@
+Implement different search algorithms to teach Pacman to navigate his world (resource: http://inst.eecs.berkeley.edu/~cs188/pacman/search.html)
+- Find one target
+  - Depth First Search
+  - Breadth First Search
+  - Uniform Cost Search
+  - A* Search
+- Find multiple targets
+  - Corners Problem: Representation
+  - Corners Problem: Heuristic
+  - Eating All The Dots: Heuristic
+- Suboptimal Search 
