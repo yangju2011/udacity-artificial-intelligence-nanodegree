@@ -9,17 +9,17 @@ Projects:
 
 Courses:
 1. Foundations of AI
-- Introduction to AI
-- Introduction to Game Playing
-- Advanced Game Playing
-- Search
-- Simulated Annealing
-- Constraint Satisfaction
-- Logic and Reasoning
-- Planning
-- Probability
-- Bayes Nets
-- Inference in Bayes Nets
-- Hidden Markov Models
+  - Introduction to AI
+  - Introduction to Game Playing
+  - Advanced Game Playing
+  - Search
+  - Simulated Annealing
+  - Constraint Satisfaction
+  - Logic and Reasoning
+  - Planning
+  - Probability
+  - Bayes Nets
+  - Inference in Bayes Nets
+  - Hidden Markov Models
 
 2. Deep Learning and Applications
