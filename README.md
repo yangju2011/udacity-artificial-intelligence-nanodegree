@@ -6,6 +6,7 @@ Projects:
 - Project 2: Build a Game-Playing Agent
 - Project 3: Teaching PacMan to Search
 - Project 4: Simulated Annealing
+- Project 5: Constraint Satisfaction Problem
 
 Courses:
 1. Foundations of AI
