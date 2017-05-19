@@ -7,6 +7,7 @@ Projects:
 - Project 3: Teaching PacMan to Search
 - Project 4: Simulated Annealing
 - Project 5: Constraint Satisfaction Problem
+- Project 6: Implement a Planning Search
 
 Courses:
 1. Foundations of AI
