@@ -1,6 +1,6 @@
 - Define a group of problems in classical PDDL (Planning Domain Definition Language) for the air cargo domain
 - Set up the problems for search, implement action schema
 - Implement a Planning Graph with automatic heuristics with mutex methods
-- Compare and contrast non-heuristic search result metrics (optimality, time elapsed, number of node expansions) for Problems 1,2, and 3. Include breadth-first, depth-first, and at least one other uninformed non-heuristic search in your comparison; Your third choice of non-heuristic search may be skipped for Problem 3 if it takes longer than 10 minutes to run, but a note in this case should be included.
-- Compare and contrast heuristic search result metrics using A* with the "ignore preconditions" and "level-sum" heuristics for Problems 1, 2, and 3.
+- Compare and contrast non-heuristic search result metrics (optimality, time elapsed, number of node expansions)
+- Compare and contrast heuristic search result metrics using A* with the "ignore preconditions" and "level-sum" heuristics
 - Skeleton code from https://github.com/udacity/AIND-Planning
