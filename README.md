@@ -1,4 +1,4 @@
-This repository contains project work for Udacity's Artificial Intelligence Nanodegree.
+This repository contains project work for Udacity's Artificial Intelligence Nanodegree: Foundations of AI
 
 Projects:
 
@@ -8,20 +8,20 @@ Projects:
 - Project 4: Simulated Annealing
 - Project 5: Constraint Satisfaction Problem
 - Project 6: Implement a Planning Search
+- Project 7: Build a Sign Language Recognizer
 
 Courses:
-1. Foundations of AI
-  - Introduction to AI
-  - Introduction to Game Playing
-  - Advanced Game Playing
-  - Search
-  - Simulated Annealing
-  - Constraint Satisfaction
-  - Logic and Reasoning
-  - Planning
-  - Probability
-  - Bayes Nets
-  - Inference in Bayes Nets
-  - Hidden Markov Models
+Foundations of AI
+- Introduction to AI
+- Introduction to Game Playing
+- Advanced Game Playing
+- Search
+- Simulated Annealing
+- Constraint Satisfaction
+- Logic and Reasoning
+- Planning
+- Probability
+- Bayes Nets
+- Inference in Bayes Nets
+- Hidden Markov Models
 
-2. Deep Learning and Applications
