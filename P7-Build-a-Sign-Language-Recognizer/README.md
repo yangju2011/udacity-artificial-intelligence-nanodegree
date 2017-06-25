@@ -1,1 +1,6 @@
+- Build a system to recognize words communicated using the American Sign Language (ASL). 
+- Implement custom features to describe the coordinates of left hand, right hand, and nose.
+- Implement model selection with 3 methods: Log likelihood using cross-validation folds (CV), Bayesian Information Criterion (BIC), Discriminative Information Criterion (DIC).
+- Train a set of Hidden Markov Models (HMMs) on single words and select models and optimal number of hidden states using selectors. 
+- Train a set of Hidden Markov Models (HMMs) on full training set to recognize sequence of words with a word error rate (WER) of 55%.
 - Skeleton code from https://github.com/udacity/AIND-Recognizer
